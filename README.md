@@ -59,7 +59,7 @@ Depois de abrir o `hdajackretask`, siga este passo a passo para corrigir as entr
    - Em seguida, clique em **“Install boot override”** para que a mudança permaneça após reiniciar o computador.
 
 > 💡 Dica: Se algo der errado, você pode abrir o `hdajackretask` novamente e reverter as alterações desmarcando os overrides aplicados.
-
+> 💡 Se você aplicar override no pino real (ex: 0x12 como Internal Mic), não tem problema desde que a função esteja correta e o microfone funcione normalmente. Caso contrário, desmarque o override para restaurar o comportamento original.
 
 ![jack-config](https://github.com/user-attachments/assets/7b2f4cb2-6175-45f7-89d1-5daf52750436)
 
