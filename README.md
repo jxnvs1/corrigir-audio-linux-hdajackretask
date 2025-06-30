@@ -61,5 +61,7 @@ Depois de abrir o `hdajackretask`, siga este passo a passo para corrigir as entr
 > 💡 Dica: Se algo der errado, você pode abrir o `hdajackretask` novamente e reverter as alterações desmarcando os overrides aplicados.
 
 
+![jack-config](https://github.com/user-attachments/assets/7b2f4cb2-6175-45f7-89d1-5daf52750436)
+
 
 
